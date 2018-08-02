@@ -7,6 +7,9 @@ call plug#begin('~/.vim/plugged')
 " Colorschemes
 Plug 'flazz/vim-colorschemes'
 
+" Tree explorer 🌲
+Plug 'scrooloose/nerdtree'
+
 call plug#end()
 
 " Config
